@@ -30,7 +30,7 @@ class Current_study():
         #container stuff
         return "I'm trying!"
         
-    def kubernets(self)
+    def kubernets(self):
         #orchestration
         return "It's like a musik"
 
