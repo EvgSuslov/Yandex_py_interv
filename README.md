@@ -19,7 +19,7 @@ es.tech_stack( linux(ubuntu, centos), python3(), git(github, gitlab))
 
 class Current_study():
  def __init__(self, color, zabbix, Docker, Kubernets:
-        self.color = yellow #my favorite collor
+        self.color = yellow #my favorite color
         self.zabbix = zabbix
         self.Docker = docker
         self.Kubernets  = kubernets
