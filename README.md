@@ -4,7 +4,8 @@
 
 <!---Пример кода-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lanit+integration)](https://git.io/typing-svg)
-# Foobar
+# study line 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ```bash
