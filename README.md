@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EvgSuslov
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Python and DevOps stuff
+<h1 align="center">Hi there, I'm <a href="https://github.com/EvgSuslov" target="_blank">Evgenii</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">IT scince sudent and DevOps intern from Russia 🇷🇺</h3>
 
 # Foobar
 ## Installation
