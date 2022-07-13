@@ -13,7 +13,7 @@ pip install evgsus
 import evgsus as es
 
 #tech that i know
-es.tech_stack( linux(ubuntu, centos), python3(), git(github, gitlab)
+es.tech_stack( linux(ubuntu, centos), python3(), git(github, gitlab))
 
 class Current_study():
  def __init__(self, color, zabbix, Docker, Kubernets:
