@@ -27,6 +27,8 @@ class Current_study():
     def zabbix (self):
         #monitoring
         return "Studying"
+        #3VMs zabbix server+proxy+agent - 100%[Comlete!]
+        #3VMs zabbix with proxy and extarnal database - 55%[Loading]
     
     def docker(self):
         #container stuff
